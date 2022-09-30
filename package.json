@@ -1,0 +1,25 @@
+{
+  "name": "faisalaffan-flutter-extension-snippet",
+  "displayName": "faisalaffan-flutter-extension-snippet",
+  "description": "Faisal Affan Flutter Extension Snippet",
+  "version": "0.0.1",
+  "publisher": "faisalaffan",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faisalaffan/faisalaffan-flutter-extension-snippet"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
